@@ -101,7 +101,6 @@ POST /api/thoughts/:thoughtId/reactions – Add a reaction
 DELETE /api/thoughts/:thoughtId/reactions/:reactionId – Remove a reaction
 
 📹 Demo
-Coming Soon: Link to walkthrough video or screenshots
-
+https://www.loom.com/share/079c3ec184c14576900d524e310a0e56?sid=67ad70d5-e11d-41ae-a12c-37b870f043e9
 📄 License
 This project is licensed under the MIT License.
