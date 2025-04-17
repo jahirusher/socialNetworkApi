@@ -46,7 +46,7 @@ RESTful APIs
 1. Clone the repo
 
 bash
-git clone https://github.com/your-username/social-network-api.git
+git clone https://github.com/jahirusher/social-network-api.git
 cd social-network-api
 
 2. Install dependencies
